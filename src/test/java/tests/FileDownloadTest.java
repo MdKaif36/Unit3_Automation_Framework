@@ -16,8 +16,7 @@ public class FileDownloadTest extends BaseTest {
 
     private final FileDownloadPage fileDownloadPage = new FileDownloadPage();
 
-    //private final String fileName = TestDataReader.getFileData().getDownloadFile();
-    private final String fileName="Test.txt";
+    private final String fileName = TestDataReader.getFileData().getDownloadFile();
     private final String filePath = getBrowser().getDownloadDirectory() + File.separator + fileName;
     private final File downloadedFile = new File(filePath);
 

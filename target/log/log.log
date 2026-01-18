@@ -1146,3 +1146,69 @@ Driver info: driver.version: unknown
 2026-01-18 18:20:37 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
 2026-01-18 18:20:37 INFO  - Link 'Test.txt' :: Clicking
 2026-01-18 18:20:47 INFO  - Closing browser
+2026-01-18 23:56:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:56:06 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 23:56:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 23:56:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 23:56:14 INFO  - Browser 'CHROME' ready...
+2026-01-18 23:56:14 INFO  - Maximizing browser window
+2026-01-18 23:56:14 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 23:56:21 INFO  - Link 'File Upload' :: Clicking
+2026-01-18 23:56:24 INFO  - Text Field 'Upload' :: Clearing
+2026-01-18 23:56:24 INFO  - Text Field 'Upload' :: Typing 'C:\Users\Global\Desktop\Unit3_Automation_Framework\src\test\resources\testdata\file.json'
+2026-01-18 23:56:24 INFO  - Text Field 'Submit file' :: Clicking
+2026-01-18 23:56:26 INFO  - Label 'File name' :: Getting text from element
+2026-01-18 23:56:26 INFO  - Label 'File name' :: Element's text: [file.json]
+2026-01-18 23:56:26 INFO  - Closing browser
+2026-01-18 23:56:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:56:50 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 23:56:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 23:56:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 23:56:52 INFO  - Browser 'CHROME' ready...
+2026-01-18 23:56:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:56:52 INFO  - Maximizing browser window
+2026-01-18 23:56:52 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 23:57:01 INFO  - Link 'File Download' :: Clicking
+2026-01-18 23:58:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:58:13 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 23:58:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 23:58:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 23:58:14 INFO  - Browser 'CHROME' ready...
+2026-01-18 23:58:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:58:14 INFO  - Maximizing browser window
+2026-01-18 23:58:14 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 23:58:22 INFO  - Link 'File Download' :: Clicking
+2026-01-18 23:58:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:58:49 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 23:58:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 23:58:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 23:58:50 INFO  - Browser 'CHROME' ready...
+2026-01-18 23:58:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 23:58:50 INFO  - Maximizing browser window
+2026-01-18 23:58:50 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 23:58:57 INFO  - Link 'File Download' :: Clicking
+2026-01-18 23:59:07 INFO  - Closing browser
+2026-01-19 00:05:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-19 00:05:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-19 00:05:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-19 00:05:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-19 00:05:18 INFO  - Browser 'CHROME' ready...
+2026-01-19 00:05:18 INFO  - Maximizing browser window
+2026-01-19 00:05:18 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-19 00:05:27 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-19 00:05:27 INFO  - Adding Basic Authentication handler
+2026-01-19 00:05:27 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-19 00:05:40 INFO  - Closing browser

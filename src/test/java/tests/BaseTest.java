@@ -1,6 +1,7 @@
 package tests;
 
 import aquality.selenium.browser.AqualityServices;
+import aquality.selenium.browser.Browser;
 import pages.MainPage;
 import utils.EnvDataReader;
 import org.testng.annotations.AfterMethod;
