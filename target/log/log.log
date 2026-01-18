@@ -1,0 +1,1148 @@
+2026-01-18 11:05:51 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 11:05:51 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 11:05:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 11:05:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 11:05:55 INFO  - Browser 'CHROME' ready...
+2026-01-18 11:05:55 INFO  - Maximizing browser window
+2026-01-18 11:05:55 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 11:06:00 INFO  - Link 'JavaScript Alerts' :: Clicking
+2026-01-18 11:06:01 INFO  - Button 'Click for JS alert' :: Clicking
+2026-01-18 11:06:01 INFO  - Accepting browser alert
+2026-01-18 11:06:01 INFO  - Closing browser
+2026-01-18 11:42:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 11:42:43 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 11:42:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 11:42:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 11:42:46 INFO  - Browser 'CHROME' ready...
+2026-01-18 11:42:46 INFO  - Maximizing browser window
+2026-01-18 11:42:46 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 11:45:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 11:45:02 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 11:45:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 11:45:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 11:45:03 INFO  - Browser 'CHROME' ready...
+2026-01-18 11:45:03 INFO  - Maximizing browser window
+2026-01-18 11:45:03 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 11:45:12 INFO  - Link 'Sortable Data Tables' :: Clicking
+2026-01-18 11:45:13 INFO  - Label 'due 1' :: Getting text from element
+2026-01-18 11:45:13 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2026-01-18 11:45:13 INFO  - Label 'due 2' :: Getting text from element
+2026-01-18 11:45:13 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2026-01-18 11:45:13 INFO  - Label 'due 3' :: Getting text from element
+2026-01-18 11:45:13 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2026-01-18 11:45:13 INFO  - Label 'due 4' :: Getting text from element
+2026-01-18 11:45:13 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2026-01-18 11:45:13 INFO  - Closing browser
+2026-01-18 12:06:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 12:06:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 12:06:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 12:06:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 12:06:13 INFO  - Browser 'CHROME' ready...
+2026-01-18 12:06:13 INFO  - Maximizing browser window
+2026-01-18 12:06:13 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 12:06:19 INFO  - Link 'Sortable Data Tables' :: Clicking
+2026-01-18 12:06:20 INFO  - Label 'due 1' :: Getting text from element
+2026-01-18 12:06:20 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2026-01-18 12:06:20 INFO  - Label 'due 2' :: Getting text from element
+2026-01-18 12:06:20 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2026-01-18 12:06:20 INFO  - Label 'due 3' :: Getting text from element
+2026-01-18 12:06:20 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2026-01-18 12:06:20 INFO  - Label 'due 4' :: Getting text from element
+2026-01-18 12:06:20 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2026-01-18 12:06:21 INFO  - Closing browser
+2026-01-18 12:56:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 12:56:10 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 12:56:12 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 12:56:12 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 12:56:12 INFO  - Browser 'CHROME' ready...
+2026-01-18 12:56:12 INFO  - Maximizing browser window
+2026-01-18 12:56:12 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 12:56:20 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 12:56:23 INFO  - Button 'Status enable' :: Clicking
+2026-01-18 12:56:53 DEBUG - Page source:
+<html class="no-js" lang="en"><!--<![endif]--><head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script><meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><style></style>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body style="">
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  function swapInput() {
+    disableButton("#input-example button");
+    clearMessage();
+    showDelay("#input-example button");
+    pauseThenToggleControls("input");
+  }
+
+  function swapCheckbox (){
+    disableButton("#checkbox-example button");
+    clearMessage();
+    showDelay("#checkbox-example button");
+    pauseThenToggleControls("checkbox");
+  };
+
+  function disableButton(locator) {
+    $(locator).attr("disabled", true);
+  };
+
+  function clearMessage() {
+    if ($("#message").length) {
+       $("#message").first().remove();
+    }
+  };
+
+  function showDelay(locator) {
+    $(locator).after("<div id='loading'>Wait for it... <img src='/img/ajax-loader.gif'></div></br>");
+  };
+
+  function pauseThenToggleControls(target) {
+    setTimeout(function() {
+      if (target === "checkbox") {
+        toggleCheckboxControls();
+      } else if (target === "input") {
+        toggleInputControls();
+      }
+    }, 3000 );
+  };
+
+  function toggleCheckboxControls() {
+    var btn = $("#checkbox-example button").first();
+    var check = $("#checkbox").first();
+    var load = $("#loading");
+    if ( btn.text() == "Remove") {
+      check.remove();
+      btn.text("Add");
+      btn.after("<p id='message'>It's gone!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Remove");
+      btn.after("<div><input type='checkbox' id='checkbox'> A checkbox</div>");
+      btn.after("<p id='message'>It's back!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+
+  function toggleInputControls() {
+    var btn = $("#input-example button").first();
+    var input = $("#input-example input").first();
+    var load = $("#loading");
+    if ( btn.text() == "Enable") {
+      input.prop("disabled", false)
+      btn.after("<p id='message'>It's enabled!</p>");
+      btn.text("Disable");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Enable");
+      input.prop("disabled", true)
+      btn.after("<p id='message'>It's disabled!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+</script>
+<div class="example">
+  <h4>Dynamic Controls</h4>
+  <p>This example demonstrates when elements (e.g., checkbox, input field, etc.) are changed asynchronously.</p>
+
+  <h4 class="subheader">Remove/add</h4>
+  <br>
+  <form id="checkbox-example">
+    <div id="checkbox"><input type="checkbox" label="blah"> A checkbox</div>
+    <button autocomplete="off" type="button" onclick="swapCheckbox()">Remove</button>
+  </form>
+
+  <hr>
+
+  <br>
+  <h4 class="subheader">Enable/disable</h4>
+  <br>
+  <form id="input-example">
+    <input type="text" disabled="" style="width: 30%;">
+    <button autocomplete="off" type="button" onclick="swapInput()">Enable</button>
+  </form>
+<div>
+
+      </div>
+    </div>
+    <div id="page-footer" class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  
+
+</div></div></body></html>
+org.openqa.selenium.NoSuchElementException: No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55907}, goog:processID: 18836, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55907/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 776f9d62ae7efe07b54955127ff009c0
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+	at aquality.selenium.core.elements.ElementFinder.handleTimeoutException(ElementFinder.java:75) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.ElementFinder.findElements(ElementFinder.java:36) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElementFinder.findElement(IElementFinder.java:51) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.Element.getElement(Element.java:111) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.Element.getElement(Element.java:101) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElement.getElement(IElement.java:45) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.lambda$executeScript$1(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.utilities.ActionRetrier.doWithRetry(ActionRetrier.java:33) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.utilities.ElementActionRetrier.doWithRetry(ElementActionRetrier.java:22) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.executeScript(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:76) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:67) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.Element.click(Element.java:116) ~[aquality-selenium-4.5.0.jar:?]
+	at pages.DynamicControlsPage.clickEnable(DynamicControlsPage.java:30) ~[test-classes/:?]
+	at tests.DynamicControlsTest.dynamicControlsTest(DynamicControlsTest.java:19) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-18 12:56:53 ERROR - No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55907}, goog:processID: 18836, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55907/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 776f9d62ae7efe07b54955127ff009c0
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+2026-01-18 12:56:53 INFO  - Closing browser
+2026-01-18 12:57:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 12:57:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 12:57:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 12:57:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 12:57:27 INFO  - Browser 'CHROME' ready...
+2026-01-18 12:57:27 INFO  - Maximizing browser window
+2026-01-18 12:57:27 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 12:57:33 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 12:57:35 INFO  - Button 'Status enable' :: Clicking
+2026-01-18 12:58:05 DEBUG - Page source:
+<html class="no-js" lang="en"><!--<![endif]--><head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script><meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><style></style>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body style="">
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  function swapInput() {
+    disableButton("#input-example button");
+    clearMessage();
+    showDelay("#input-example button");
+    pauseThenToggleControls("input");
+  }
+
+  function swapCheckbox (){
+    disableButton("#checkbox-example button");
+    clearMessage();
+    showDelay("#checkbox-example button");
+    pauseThenToggleControls("checkbox");
+  };
+
+  function disableButton(locator) {
+    $(locator).attr("disabled", true);
+  };
+
+  function clearMessage() {
+    if ($("#message").length) {
+       $("#message").first().remove();
+    }
+  };
+
+  function showDelay(locator) {
+    $(locator).after("<div id='loading'>Wait for it... <img src='/img/ajax-loader.gif'></div></br>");
+  };
+
+  function pauseThenToggleControls(target) {
+    setTimeout(function() {
+      if (target === "checkbox") {
+        toggleCheckboxControls();
+      } else if (target === "input") {
+        toggleInputControls();
+      }
+    }, 3000 );
+  };
+
+  function toggleCheckboxControls() {
+    var btn = $("#checkbox-example button").first();
+    var check = $("#checkbox").first();
+    var load = $("#loading");
+    if ( btn.text() == "Remove") {
+      check.remove();
+      btn.text("Add");
+      btn.after("<p id='message'>It's gone!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Remove");
+      btn.after("<div><input type='checkbox' id='checkbox'> A checkbox</div>");
+      btn.after("<p id='message'>It's back!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+
+  function toggleInputControls() {
+    var btn = $("#input-example button").first();
+    var input = $("#input-example input").first();
+    var load = $("#loading");
+    if ( btn.text() == "Enable") {
+      input.prop("disabled", false)
+      btn.after("<p id='message'>It's enabled!</p>");
+      btn.text("Disable");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Enable");
+      input.prop("disabled", true)
+      btn.after("<p id='message'>It's disabled!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+</script>
+<div class="example">
+  <h4>Dynamic Controls</h4>
+  <p>This example demonstrates when elements (e.g., checkbox, input field, etc.) are changed asynchronously.</p>
+
+  <h4 class="subheader">Remove/add</h4>
+  <br>
+  <form id="checkbox-example">
+    <div id="checkbox"><input type="checkbox" label="blah"> A checkbox</div>
+    <button autocomplete="off" type="button" onclick="swapCheckbox()">Remove</button>
+  </form>
+
+  <hr>
+
+  <br>
+  <h4 class="subheader">Enable/disable</h4>
+  <br>
+  <form id="input-example">
+    <input type="text" disabled="" style="width: 30%;">
+    <button autocomplete="off" type="button" onclick="swapInput()">Enable</button>
+  </form>
+<div>
+
+      </div>
+    </div>
+    <div id="page-footer" class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  
+
+</div></div></body></html>
+org.openqa.selenium.NoSuchElementException: No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61984}, goog:processID: 25292, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61984/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4b588545b2b0397edcd74d810b6e6eb
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+	at aquality.selenium.core.elements.ElementFinder.handleTimeoutException(ElementFinder.java:75) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.ElementFinder.findElements(ElementFinder.java:36) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElementFinder.findElement(IElementFinder.java:51) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.Element.getElement(Element.java:111) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.Element.getElement(Element.java:101) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElement.getElement(IElement.java:45) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.lambda$executeScript$1(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.utilities.ActionRetrier.doWithRetry(ActionRetrier.java:33) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.utilities.ElementActionRetrier.doWithRetry(ElementActionRetrier.java:22) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.executeScript(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:76) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:67) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.Element.click(Element.java:116) ~[aquality-selenium-4.5.0.jar:?]
+	at pages.DynamicControlsPage.clickEnable(DynamicControlsPage.java:30) ~[test-classes/:?]
+	at tests.DynamicControlsTest.dynamicControlsTest(DynamicControlsTest.java:19) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-18 12:58:05 ERROR - No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61984}, goog:processID: 25292, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61984/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4b588545b2b0397edcd74d810b6e6eb
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+2026-01-18 12:58:05 INFO  - Closing browser
+2026-01-18 12:58:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 12:58:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 12:58:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 12:58:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 12:58:20 INFO  - Browser 'CHROME' ready...
+2026-01-18 12:58:20 INFO  - Maximizing browser window
+2026-01-18 12:58:20 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 12:58:26 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 12:58:29 INFO  - Button 'Status enable' :: Clicking
+2026-01-18 12:58:59 DEBUG - Page source:
+<html class="no-js" lang="en"><!--<![endif]--><head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script><meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><style></style>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body style="">
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  function swapInput() {
+    disableButton("#input-example button");
+    clearMessage();
+    showDelay("#input-example button");
+    pauseThenToggleControls("input");
+  }
+
+  function swapCheckbox (){
+    disableButton("#checkbox-example button");
+    clearMessage();
+    showDelay("#checkbox-example button");
+    pauseThenToggleControls("checkbox");
+  };
+
+  function disableButton(locator) {
+    $(locator).attr("disabled", true);
+  };
+
+  function clearMessage() {
+    if ($("#message").length) {
+       $("#message").first().remove();
+    }
+  };
+
+  function showDelay(locator) {
+    $(locator).after("<div id='loading'>Wait for it... <img src='/img/ajax-loader.gif'></div></br>");
+  };
+
+  function pauseThenToggleControls(target) {
+    setTimeout(function() {
+      if (target === "checkbox") {
+        toggleCheckboxControls();
+      } else if (target === "input") {
+        toggleInputControls();
+      }
+    }, 3000 );
+  };
+
+  function toggleCheckboxControls() {
+    var btn = $("#checkbox-example button").first();
+    var check = $("#checkbox").first();
+    var load = $("#loading");
+    if ( btn.text() == "Remove") {
+      check.remove();
+      btn.text("Add");
+      btn.after("<p id='message'>It's gone!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Remove");
+      btn.after("<div><input type='checkbox' id='checkbox'> A checkbox</div>");
+      btn.after("<p id='message'>It's back!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+
+  function toggleInputControls() {
+    var btn = $("#input-example button").first();
+    var input = $("#input-example input").first();
+    var load = $("#loading");
+    if ( btn.text() == "Enable") {
+      input.prop("disabled", false)
+      btn.after("<p id='message'>It's enabled!</p>");
+      btn.text("Disable");
+      btn.attr("disabled", false);
+      load.hide();
+    } else {
+      btn.text("Enable");
+      input.prop("disabled", true)
+      btn.after("<p id='message'>It's disabled!</p>");
+      btn.attr("disabled", false);
+      load.hide();
+    }
+  };
+</script>
+<div class="example">
+  <h4>Dynamic Controls</h4>
+  <p>This example demonstrates when elements (e.g., checkbox, input field, etc.) are changed asynchronously.</p>
+
+  <h4 class="subheader">Remove/add</h4>
+  <br>
+  <form id="checkbox-example">
+    <div id="checkbox"><input type="checkbox" label="blah"> A checkbox</div>
+    <button autocomplete="off" type="button" onclick="swapCheckbox()">Remove</button>
+  </form>
+
+  <hr>
+
+  <br>
+  <h4 class="subheader">Enable/disable</h4>
+  <br>
+  <form id="input-example">
+    <input type="text" disabled="" style="width: 30%;">
+    <button autocomplete="off" type="button" onclick="swapInput()">Enable</button>
+  </form>
+<div>
+
+      </div>
+    </div>
+    <div id="page-footer" class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  
+
+</div></div></body></html>
+org.openqa.selenium.NoSuchElementException: No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56783}, goog:processID: 16328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56783/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b1dc76c50a654fabfdb96f18a9f96a
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+	at aquality.selenium.core.elements.ElementFinder.handleTimeoutException(ElementFinder.java:75) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.ElementFinder.findElements(ElementFinder.java:36) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElementFinder.findElement(IElementFinder.java:51) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.Element.getElement(Element.java:111) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.Element.getElement(Element.java:101) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElement.getElement(IElement.java:45) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.lambda$executeScript$1(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.utilities.ActionRetrier.doWithRetry(ActionRetrier.java:33) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.utilities.ElementActionRetrier.doWithRetry(ElementActionRetrier.java:22) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.executeScript(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:76) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:67) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.Element.click(Element.java:116) ~[aquality-selenium-4.5.0.jar:?]
+	at pages.DynamicControlsPage.clickEnable(DynamicControlsPage.java:30) ~[test-classes/:?]
+	at tests.DynamicControlsTest.dynamicControlsTest(DynamicControlsTest.java:19) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-18 12:58:59 ERROR - No elements with locator 'By.xpath: //*[text()='ENABLE']' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56783}, goog:processID: 16328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56783/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65b1dc76c50a654fabfdb96f18a9f96a
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+2026-01-18 12:58:59 INFO  - Closing browser
+2026-01-18 12:59:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 12:59:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 12:59:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 12:59:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 12:59:29 INFO  - Browser 'CHROME' ready...
+2026-01-18 12:59:29 INFO  - Maximizing browser window
+2026-01-18 12:59:29 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 12:59:36 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 12:59:38 INFO  - Button 'Status enable' :: Clicking
+2026-01-18 13:00:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 13:00:10 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 13:00:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 13:00:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 13:00:11 INFO  - Browser 'CHROME' ready...
+2026-01-18 13:00:11 INFO  - Maximizing browser window
+2026-01-18 13:00:12 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 13:00:13 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 13:01:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 13:01:56 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 13:01:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 13:01:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 13:01:57 INFO  - Browser 'CHROME' ready...
+2026-01-18 13:01:57 INFO  - Maximizing browser window
+2026-01-18 13:01:58 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 13:02:03 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-18 13:02:06 INFO  - Button 'Status Enable' :: Clicking
+2026-01-18 13:02:06 INFO  - Text Field 'Input field' :: Waiting for element to be enabled
+2026-01-18 13:02:09 INFO  - Text Field 'Input field' :: Clearing
+2026-01-18 13:02:09 INFO  - Text Field 'Input field' :: Typing '47790322-6faf-4dfd-ad42-5e1d962d6c31'
+2026-01-18 13:02:10 INFO  - Text Field 'Input field' :: Getting attribute 'value'
+2026-01-18 13:02:10 INFO  - Text Field 'Input field' :: Value of attribute 'value': [47790322-6faf-4dfd-ad42-5e1d962d6c31]
+2026-01-18 13:02:10 INFO  - Closing browser
+2026-01-18 15:53:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 15:53:57 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 15:54:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 15:54:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 15:54:03 INFO  - Browser 'CHROME' ready...
+2026-01-18 15:54:03 INFO  - Maximizing browser window
+2026-01-18 15:54:03 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 15:54:07 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-18 15:55:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 15:55:24 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 15:55:25 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 15:55:25 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 15:55:25 INFO  - Browser 'CHROME' ready...
+2026-01-18 15:55:25 INFO  - Maximizing browser window
+2026-01-18 15:55:25 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 15:55:35 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-18 15:59:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 15:59:52 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 15:59:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 15:59:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 15:59:56 INFO  - Browser 'CHROME' ready...
+2026-01-18 15:59:56 INFO  - Maximizing browser window
+2026-01-18 15:59:56 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 16:00:03 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-18 17:23:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:23:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:23:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:23:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:23:33 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:23:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:23:33 INFO  - Maximizing browser window
+2026-01-18 17:23:33 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:23:38 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:23:39 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:24:09 DEBUG - No elements with locator 'By.xpath: //*[text()='Test.txt']' were found in DISPLAYED state
+2026-01-18 17:24:09 INFO  - Link 'Test.txt' :: Element has not become displayed after timeout
+2026-01-18 17:24:09 INFO  - Closing browser
+2026-01-18 17:29:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:29:55 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:29:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:29:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:29:56 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:29:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:29:56 INFO  - Maximizing browser window
+2026-01-18 17:29:56 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:30:11 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:30:12 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:30:42 DEBUG - No elements with locator 'By.xpath: //*[text()='Test.txt']' were found in DISPLAYED state
+2026-01-18 17:30:42 INFO  - Link 'Test.txt' :: Element has not become displayed after timeout
+2026-01-18 17:30:42 INFO  - Closing browser
+2026-01-18 17:33:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:33:55 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:33:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:33:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:33:56 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:33:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:33:57 INFO  - Maximizing browser window
+2026-01-18 17:33:57 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:37:17 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:37:17 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:37:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:37:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:37:19 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:37:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:37:19 INFO  - Maximizing browser window
+2026-01-18 17:37:19 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:37:31 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:37:31 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:37:31 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 17:37:42 INFO  - Closing browser
+2026-01-18 17:38:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:38:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:38:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:38:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:38:59 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:38:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:39:00 INFO  - Maximizing browser window
+2026-01-18 17:39:00 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:39:05 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:39:06 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:39:06 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 17:39:53 INFO  - Closing browser
+2026-01-18 17:43:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/test/resources}
+2026-01-18 17:43:18 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:43:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:43:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:43:19 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:43:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=.src/test/resources}
+2026-01-18 17:43:19 INFO  - Maximizing browser window
+2026-01-18 17:43:19 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:44:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:44:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:44:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:44:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:44:44 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:44:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:44:44 INFO  - Maximizing browser window
+2026-01-18 17:44:44 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:44:57 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:44:58 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:44:58 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 17:45:09 INFO  - Closing browser
+2026-01-18 17:45:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:45:54 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:45:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:45:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:45:55 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:45:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:45:55 INFO  - Maximizing browser window
+2026-01-18 17:45:55 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:46:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:46:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:46:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:46:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:46:37 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:46:37 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:46:37 INFO  - Maximizing browser window
+2026-01-18 17:46:38 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:46:49 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:46:49 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:46:49 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 17:47:00 INFO  - Closing browser
+2026-01-18 17:47:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:47:41 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:47:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:47:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:47:42 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:47:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:47:42 INFO  - Maximizing browser window
+2026-01-18 17:47:42 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:48:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:48:24 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:48:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:48:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:48:26 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:48:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:48:26 INFO  - Maximizing browser window
+2026-01-18 17:48:26 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:56:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 17:56:39 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 17:56:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 17:56:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 17:56:40 INFO  - Browser 'CHROME' ready...
+2026-01-18 17:56:40 INFO  - Maximizing browser window
+2026-01-18 17:56:41 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 17:56:51 INFO  - Link 'File Download' :: Clicking
+2026-01-18 17:56:53 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 17:56:53 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 17:57:04 INFO  - Closing browser
+2026-01-18 18:01:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:01:49 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:01:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:01:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:01:50 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:01:50 INFO  - Maximizing browser window
+2026-01-18 18:01:51 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:02:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:02:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:02:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:02:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:02:20 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:02:20 INFO  - Maximizing browser window
+2026-01-18 18:02:20 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:04:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:04:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:04:47 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:04:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:04:47 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:04:47 INFO  - Maximizing browser window
+2026-01-18 18:04:47 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:04:53 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:04:53 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 18:04:54 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 18:05:04 INFO  - Closing browser
+2026-01-18 18:08:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:08:06 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:08:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:08:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:08:07 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:08:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:08:07 INFO  - Maximizing browser window
+2026-01-18 18:08:07 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:08:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:08:38 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:08:39 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:08:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:08:39 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:08:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:08:39 INFO  - Maximizing browser window
+2026-01-18 18:08:39 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:08:46 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:08:46 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 18:08:46 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 18:08:57 INFO  - Closing browser
+2026-01-18 18:11:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:11:30 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:11:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:11:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:11:31 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:11:31 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:11:31 INFO  - Maximizing browser window
+2026-01-18 18:11:31 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:11:44 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:11:45 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 18:11:45 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 18:11:46 INFO  - Closing browser
+2026-01-18 18:12:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:12:03 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:12:04 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:12:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:12:04 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:12:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:12:04 INFO  - Maximizing browser window
+2026-01-18 18:12:04 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:12:09 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:12:10 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 18:12:10 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 18:12:20 INFO  - Closing browser
+2026-01-18 18:15:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:15:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:15:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:15:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:15:28 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:15:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:15:28 INFO  - Maximizing browser window
+2026-01-18 18:15:28 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:16:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:16:05 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:16:06 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:16:06 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:16:06 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:16:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:16:06 INFO  - Maximizing browser window
+2026-01-18 18:16:06 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:18:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:18:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:18:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:18:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:18:44 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:18:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:18:44 INFO  - Maximizing browser window
+2026-01-18 18:18:44 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:18:48 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:19:03 DEBUG - Page source:
+<html class="no-js" lang="en"><!--<![endif]--><head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script></head></html>
+org.openqa.selenium.NoSuchElementException: No elements with locator 'By.xpath: //*[text()='File Download']' were found in DISPLAYED state: timeout: Timed out receiving message from renderer: 15.000
+  (Session info: chrome=143.0.7499.194)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3f51ef3da235e9f93c7f76f673d30efa, findElements {value=//*[text()='File Download'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54422}, goog:processID: 11048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54422/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f51ef3da235e9f93c7f76f673d30efa
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+	at aquality.selenium.core.elements.ElementFinder.handleTimeoutException(ElementFinder.java:75) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.ElementFinder.findElements(ElementFinder.java:36) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElementFinder.findElement(IElementFinder.java:51) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.Element.getElement(Element.java:111) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.Element.getElement(Element.java:101) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElement.getElement(IElement.java:45) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.lambda$executeScript$1(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.utilities.ActionRetrier.doWithRetry(ActionRetrier.java:33) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.utilities.ElementActionRetrier.doWithRetry(ElementActionRetrier.java:22) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.executeScript(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:76) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:67) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.Element.click(Element.java:116) ~[aquality-selenium-4.5.0.jar:?]
+	at pages.MainPage.clickNavigationLink(MainPage.java:21) ~[test-classes/:?]
+	at tests.FileDownloadTest.fileDownloadTest(FileDownloadTest.java:26) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-18 18:19:03 ERROR - No elements with locator 'By.xpath: //*[text()='File Download']' were found in DISPLAYED state: timeout: Timed out receiving message from renderer: 15.000
+  (Session info: chrome=143.0.7499.194)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3f51ef3da235e9f93c7f76f673d30efa, findElements {value=//*[text()='File Download'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54422}, goog:processID: 11048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54422/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f51ef3da235e9f93c7f76f673d30efa
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+2026-01-18 18:19:03 INFO  - Closing browser
+2026-01-18 18:20:22 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:20:22 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-18 18:20:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2026-01-18 18:20:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-18 18:20:23 INFO  - Browser 'CHROME' ready...
+2026-01-18 18:20:23 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2026-01-18 18:20:23 INFO  - Maximizing browser window
+2026-01-18 18:20:23 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-18 18:20:36 INFO  - Link 'File Download' :: Clicking
+2026-01-18 18:20:37 INFO  - Link 'Test.txt' :: Waiting for element to be displayed
+2026-01-18 18:20:37 INFO  - Link 'Test.txt' :: Clicking
+2026-01-18 18:20:47 INFO  - Closing browser
