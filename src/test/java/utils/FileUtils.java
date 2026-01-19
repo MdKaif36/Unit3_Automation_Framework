@@ -10,13 +10,16 @@ import java.util.concurrent.TimeUnit;
 @UtilityClass
 public class FileUtils {
 
-    public boolean isFileExist(File file) {
+    public static boolean isFileDownloaded(File file) {
         try {
-            Awaitility.await().atMost(EnvDataReader.getEnvData().getWait(), TimeUnit.SECONDS).until(file::exists);
-        } catch (ConditionTimeoutException exception) {
+            Awaitility.await()
+                    .atMost(30, TimeUnit.SECONDS)
+                    .pollInterval(500, TimeUnit.MILLISECONDS)
+                    .until(() -> file.exists() && file.length() > 0);
+            return true;
+        } catch (ConditionTimeoutException e) {
             return false;
         }
-        return true;
     }
 
     public void deleteFileIfExist(File file) {

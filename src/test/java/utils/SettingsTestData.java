@@ -1,7 +1,7 @@
 package utils;
 
 import lombok.Getter;
-import models.EnvData;
+import utils.EnvData;
 
 @Getter
 public class SettingsTestData {

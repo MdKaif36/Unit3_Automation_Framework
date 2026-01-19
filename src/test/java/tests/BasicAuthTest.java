@@ -1,8 +1,8 @@
 package tests;
 
+import aquality.selenium.browser.AqualityServices;
 import constants.MainPageNavigation;
 
-import org.openqa.selenium.By;
 import org.testng.Assert;
 import pages.BasicAuthPage;
 import org.testng.annotations.BeforeMethod;
@@ -24,11 +24,10 @@ public class BasicAuthTest extends BaseTest {
         );
     }
 
-
-
     @Test
     public void basicAuthTest() {
         mainPage.clickNavigationLink(MainPageNavigation.BASIC_AUTH);
+
         Assert.assertTrue(basicAuthPage.isSuccessMsgDisplayed(),"Success msg is not displayed");
 
     }

@@ -16,17 +16,22 @@ public class FileDownloadTest extends BaseTest {
 
     private final FileDownloadPage fileDownloadPage = new FileDownloadPage();
 
-    private final String fileName = TestDataReader.getFileData().getDownloadFile();
+    //private final String fileName = TestDataReader.getFileData().getDownloadFile();
+    private final String fileName= "LambdaTest.txt";
     private final String filePath = getBrowser().getDownloadDirectory() + File.separator + fileName;
     private final File downloadedFile = new File(filePath);
 
     @Test
     public void fileDownloadTest() {
-        mainPage.clickNavigationLink(MainPageNavigation.FILE_DOWNLOAD);
-        Assert.assertTrue(fileDownloadPage.isFileDownloadLinkDisplayed(fileName),"file  is not displayed");
-        fileDownloadPage.clickFileDownloadLink(fileName);
-        Assert.assertTrue(FileUtils.isFileExist(downloadedFile),"file is not download");
 
+        mainPage.clickNavigationLink(MainPageNavigation.FILE_DOWNLOAD);
+
+        Assert.assertTrue(fileDownloadPage.isFileDownloadLinkDisplayed(fileName), "File link is not displayed");
+
+        fileDownloadPage.clickFileDownloadLink(fileName);
+
+        System.out.println(filePath);
+        Assert.assertTrue(FileUtils.isFileDownloaded(downloadedFile), "File is not downloaded");
     }
 
     @AfterMethod

@@ -13,12 +13,12 @@
         "profile.default_content_settings.popups": "0",
         "disable-popup-blocking": "true",
         "download.prompt_for_download": "false",
-        "download.default_directory": "./downloads"
+        "download.default_directory": "C:\\Users\\Global\\Downloads\\"
       },
       "loggingPreferences": {
         "Performance": "All"
       },
-      "pageLoadStrategy": "Normal",
+      "pageLoadStrategy": "eager",
       "startArguments": []
     },
     "edge": {
@@ -103,7 +103,7 @@
     "timeoutImplicit": 0,
     "timeoutCondition": 30,
     "timeoutScript": 10,
-    "timeoutPageLoad": 15,
+    "timeoutPageLoad": 60000,
     "timeoutPollingInterval": 300,
     "timeoutCommand": 120
   },
