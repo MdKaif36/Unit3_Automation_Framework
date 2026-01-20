@@ -9,8 +9,7 @@ import org.openqa.selenium.By;
 public class BasicAuthPage extends Form {
     private static final String NAME = "Basic Auth";
 
-    private final By Success_Auth=By.xpath(String.format(LocatorConstants.PARTICULAR_TEXT_XPATH,
-            "Congratulation! You must have the proper credentials"));
+    private final By Success_Auth=By.xpath("//p[contains(text(),'Congratulations!')]");
 
     private ILabel successlabel= AqualityServices.getElementFactory().getLabel(Success_Auth,"Success");
 
@@ -19,6 +18,6 @@ public class BasicAuthPage extends Form {
     }
 
     public boolean isSuccessMsgDisplayed() {
-        return successlabel.state().isDisplayed();
+            return successlabel.state().waitForDisplayed();
     }
 }

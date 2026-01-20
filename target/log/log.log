@@ -1997,3 +1997,447 @@ Driver info: driver.version: unknown
 2026-01-19 16:56:46 INFO  - Link 'Basic Auth' :: Clicking
 2026-01-19 16:56:47 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
 2026-01-19 16:56:47 INFO  - Closing browser
+2026-01-20 11:26:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:26:18 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:26:24 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:26:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:26:24 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:26:24 INFO  - Maximizing browser window
+2026-01-20 11:26:24 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:26:28 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:26:28 INFO  - Adding Basic Authentication handler
+2026-01-20 11:26:28 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:26:29 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:26:29 INFO  - Closing browser
+2026-01-20 11:27:37 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:27:37 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:27:39 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:27:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:27:39 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:27:39 INFO  - Maximizing browser window
+2026-01-20 11:27:39 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:27:43 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:27:43 INFO  - Adding Basic Authentication handler
+2026-01-20 11:27:43 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:27:44 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:27:44 INFO  - Closing browser
+2026-01-20 11:29:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:29:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:29:28 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:29:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:29:28 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:29:28 INFO  - Maximizing browser window
+2026-01-20 11:29:28 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:29:31 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:29:31 INFO  - Adding Basic Authentication handler
+2026-01-20 11:29:31 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:29:32 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:29:32 INFO  - Closing browser
+2026-01-20 11:32:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:32:14 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:32:16 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:32:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:32:16 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:32:16 INFO  - Maximizing browser window
+2026-01-20 11:32:16 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:32:20 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:32:20 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:32:20 INFO  - Closing browser
+2026-01-20 11:35:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:35:13 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:35:14 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:35:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:35:14 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:35:14 INFO  - Maximizing browser window
+2026-01-20 11:35:14 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:35:18 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:35:18 INFO  - Adding Basic Authentication handler
+2026-01-20 11:35:18 INFO  - Navigate to url - 'the-internet.herokuapp.com'
+2026-01-20 11:39:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:39:03 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:39:04 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:39:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:39:04 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:39:04 INFO  - Maximizing browser window
+2026-01-20 11:39:04 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:39:05 INFO  - Adding Basic Authentication handler
+2026-01-20 11:39:05 INFO  - Navigate to url - 'the-internet.herokuapp.com'
+2026-01-20 11:41:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:41:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:41:47 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:41:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:41:47 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:41:47 INFO  - Maximizing browser window
+2026-01-20 11:41:47 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:41:51 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:41:51 INFO  - Adding Basic Authentication handler
+2026-01-20 11:41:51 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:41:52 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:41:52 INFO  - Closing browser
+2026-01-20 11:45:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:45:05 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:45:07 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:45:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:45:07 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:45:07 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:45:07 INFO  - Adding Basic Authentication handler
+2026-01-20 11:45:07 INFO  - Maximizing browser window
+2026-01-20 11:45:07 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:45:11 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:45:12 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:45:12 INFO  - Closing browser
+2026-01-20 11:48:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:48:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:48:41 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:48:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:48:41 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:48:41 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:48:41 INFO  - Adding Basic Authentication handler
+2026-01-20 11:48:41 INFO  - Maximizing browser window
+2026-01-20 11:48:41 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:48:46 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:48:47 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 11:49:17 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:49:17 INFO  - Label 'Success' :: Element has not become displayed after timeout
+2026-01-20 11:49:17 INFO  - Closing browser
+2026-01-20 11:50:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:50:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:50:37 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:50:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:50:37 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:50:37 INFO  - Navigate to url - 'https://the-internet.herokuapp.com/basic_auth'
+2026-01-20 11:50:39 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 11:50:52 INFO  - Closing browser
+2026-01-20 11:51:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:51:18 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:51:19 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:51:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:51:19 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:51:19 INFO  - Navigate to url - 'https://the-internet.herokuapp.com/basic_auth'
+2026-01-20 11:51:20 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:51:20 INFO  - Adding Basic Authentication handler
+2026-01-20 11:51:20 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 11:52:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:52:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:52:09 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:52:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:52:09 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:52:09 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:52:09 INFO  - Adding Basic Authentication handler
+2026-01-20 11:52:09 INFO  - Maximizing browser window
+2026-01-20 11:52:10 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:52:13 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:52:14 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 11:52:44 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:52:44 INFO  - Label 'Success' :: Element has not become displayed after timeout
+2026-01-20 11:52:44 INFO  - Closing browser
+2026-01-20 11:54:17 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:54:17 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:54:19 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:54:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:54:19 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:54:19 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:54:19 INFO  - Adding Basic Authentication handler
+2026-01-20 11:54:19 INFO  - Maximizing browser window
+2026-01-20 11:54:19 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 11:54:22 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 11:54:23 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 11:54:53 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 11:54:53 INFO  - Label 'Success' :: Element has not become displayed after timeout
+2026-01-20 11:54:53 INFO  - Closing browser
+2026-01-20 11:57:09 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 11:57:09 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 11:57:10 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 11:57:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 11:57:10 INFO  - Browser 'CHROME' ready...
+2026-01-20 11:57:10 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 11:57:10 INFO  - Adding Basic Authentication handler
+2026-01-20 11:57:10 INFO  - Maximizing browser window
+2026-01-20 11:57:10 INFO  - Navigate to url - 'the-internet.herokuapp.com'
+2026-01-20 12:01:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:01:04 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:01:06 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:01:06 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:01:06 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:01:06 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:01:06 INFO  - Adding Basic Authentication handler
+2026-01-20 12:01:06 INFO  - Maximizing browser window
+2026-01-20 12:01:06 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:01:11 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:01:11 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:01:20 INFO  - Closing browser
+2026-01-20 12:01:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:01:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:01:43 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:01:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:01:43 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:01:43 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:01:43 INFO  - Adding Basic Authentication handler
+2026-01-20 12:01:43 INFO  - Maximizing browser window
+2026-01-20 12:01:43 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:01:49 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:01:50 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:02:20 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 12:02:20 INFO  - Label 'Success' :: Element has not become displayed after timeout
+2026-01-20 12:02:20 INFO  - Closing browser
+2026-01-20 12:04:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:04:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:04:09 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:04:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:04:09 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:04:09 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:04:09 INFO  - Adding Basic Authentication handler
+2026-01-20 12:04:09 INFO  - Maximizing browser window
+2026-01-20 12:04:09 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:04:19 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:04:20 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:04:50 DEBUG - No elements with locator 'By.xpath: //*[contains(text(),'Congratulation! You must have the proper credentials')]' were found in DISPLAYED state
+2026-01-20 12:04:50 INFO  - Label 'Success' :: Element has not become displayed after timeout
+2026-01-20 12:04:50 INFO  - Closing browser
+2026-01-20 12:05:37 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:05:37 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:05:38 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:05:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:05:38 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:05:38 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:05:39 INFO  - Adding Basic Authentication handler
+2026-01-20 12:05:39 INFO  - Maximizing browser window
+2026-01-20 12:05:39 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:05:52 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:05:54 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:05:54 INFO  - Closing browser
+2026-01-20 12:06:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:06:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:06:16 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:06:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:06:16 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:06:16 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:06:16 INFO  - Adding Basic Authentication handler
+2026-01-20 12:06:16 INFO  - Maximizing browser window
+2026-01-20 12:06:16 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:06:22 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:06:23 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:06:23 INFO  - Closing browser
+2026-01-20 12:06:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:06:53 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:06:54 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:06:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:06:54 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:06:54 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:06:54 INFO  - Adding Basic Authentication handler
+2026-01-20 12:06:54 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:07:24 DEBUG - Page source:
+<html><head></head><body></body></html>
+org.openqa.selenium.NoSuchElementException: No elements with locator 'By.xpath: //*[text()='Basic Auth']' were found in DISPLAYED state: Expected condition failed: 
+(tried for 30 seconds with 300 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51181}, goog:processID: 24596, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51181/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be279d779b1598344699880aeb7ad8e4
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+	at aquality.selenium.core.elements.ElementFinder.handleTimeoutException(ElementFinder.java:75) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.ElementFinder.findElements(ElementFinder.java:36) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElementFinder.findElement(IElementFinder.java:51) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.elements.Element.getElement(Element.java:111) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.Element.getElement(Element.java:101) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.elements.interfaces.IElement.getElement(IElement.java:45) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.lambda$executeScript$1(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.core.utilities.ActionRetrier.doWithRetry(ActionRetrier.java:33) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.core.utilities.ElementActionRetrier.doWithRetry(ElementActionRetrier.java:22) ~[aquality-selenium-core-4.0.2.jar:?]
+	at aquality.selenium.elements.actions.JsActions.executeScript(JsActions.java:202) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:76) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.actions.JsActions.highlightElement(JsActions.java:67) ~[aquality-selenium-4.5.0.jar:?]
+	at aquality.selenium.elements.Element.click(Element.java:116) ~[aquality-selenium-4.5.0.jar:?]
+	at pages.MainPage.clickNavigationLink(MainPage.java:21) ~[test-classes/:?]
+	at tests.BasicAuthTest.basicAuthTest(BasicAuthTest.java:43) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2026-01-20 12:07:24 ERROR - No elements with locator 'By.xpath: //*[text()='Basic Auth']' were found in DISPLAYED state: Expected condition failed: 
+(tried for 30 seconds with 300 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.194, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\Global\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51181}, goog:processID: 24596, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51181/devtoo..., se:cdpVersion: 143.0.7499.194, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be279d779b1598344699880aeb7ad8e4
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+2026-01-20 12:07:24 INFO  - Closing browser
+2026-01-20 12:08:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:08:32 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:08:33 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:08:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:08:33 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:08:33 INFO  - Maximizing browser window
+2026-01-20 12:08:33 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:08:49 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:08:49 INFO  - Adding Basic Authentication handler
+2026-01-20 12:08:49 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:08:50 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:08:50 INFO  - Closing browser
+2026-01-20 12:09:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:09:29 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:09:30 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:09:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:09:30 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:09:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:09:31 INFO  - Maximizing browser window
+2026-01-20 12:09:31 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:09:37 INFO  - Link 'JavaScript Alerts' :: Clicking
+2026-01-20 12:09:37 INFO  - Button 'Click for JS alert' :: Clicking
+2026-01-20 12:09:37 INFO  - Accepting browser alert
+2026-01-20 12:09:38 INFO  - Closing browser
+2026-01-20 12:09:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:09:38 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:09:38 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:09:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:09:38 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:09:38 INFO  - Maximizing browser window
+2026-01-20 12:09:38 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:09:43 INFO  - Getting DevTools session by tab handle 'default'
+2026-01-20 12:09:43 INFO  - Adding Basic Authentication handler
+2026-01-20 12:09:43 INFO  - Link 'Basic Auth' :: Clicking
+2026-01-20 12:09:44 INFO  - Label 'Success' :: Waiting for element to be displayed
+2026-01-20 12:09:44 INFO  - Closing browser
+2026-01-20 12:09:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:09:44 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:09:45 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:09:45 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:09:45 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:09:45 INFO  - Maximizing browser window
+2026-01-20 12:09:45 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:09:54 INFO  - Link 'Sortable Data Tables' :: Clicking
+2026-01-20 12:09:55 INFO  - Label 'due 1' :: Getting text from element
+2026-01-20 12:09:55 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2026-01-20 12:09:55 INFO  - Label 'due 2' :: Getting text from element
+2026-01-20 12:09:55 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2026-01-20 12:09:55 INFO  - Label 'due 3' :: Getting text from element
+2026-01-20 12:09:55 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2026-01-20 12:09:55 INFO  - Label 'due 4' :: Getting text from element
+2026-01-20 12:09:55 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2026-01-20 12:09:55 INFO  - Closing browser
+2026-01-20 12:09:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:09:56 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:09:56 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:09:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:09:56 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:09:56 INFO  - Maximizing browser window
+2026-01-20 12:09:56 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:10:00 INFO  - Link 'Dynamic Controls' :: Clicking
+2026-01-20 12:10:01 INFO  - Button 'Status Enable' :: Clicking
+2026-01-20 12:10:01 INFO  - Text Field 'Input field' :: Waiting for element to be enabled
+2026-01-20 12:10:04 INFO  - Text Field 'Input field' :: Clearing
+2026-01-20 12:10:04 INFO  - Text Field 'Input field' :: Typing 'e4fbfa3d-c57b-40c4-a18f-b415e41ff0f4'
+2026-01-20 12:10:04 INFO  - Text Field 'Input field' :: Getting attribute 'value'
+2026-01-20 12:10:04 INFO  - Text Field 'Input field' :: Value of attribute 'value': [e4fbfa3d-c57b-40c4-a18f-b415e41ff0f4]
+2026-01-20 12:10:04 INFO  - Closing browser
+2026-01-20 12:10:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:10:04 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:10:05 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:10:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:10:05 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:10:05 INFO  - Maximizing browser window
+2026-01-20 12:10:05 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:10:09 INFO  - Link 'File Download' :: Clicking
+2026-01-20 12:10:09 INFO  - Link 'LambdaTest.txt' :: Waiting for element to be displayed
+2026-01-20 12:10:09 INFO  - Link 'LambdaTest.txt' :: Clicking
+2026-01-20 12:10:11 INFO  - Closing browser
+2026-01-20 12:10:11 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=C:\Users\Global\Downloads\}
+2026-01-20 12:10:11 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2026-01-20 12:10:11 DEBUG - Set '60000' timeout in seconds for loading of pages
+2026-01-20 12:10:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2026-01-20 12:10:11 INFO  - Browser 'CHROME' ready...
+2026-01-20 12:10:11 INFO  - Maximizing browser window
+2026-01-20 12:10:11 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2026-01-20 12:10:16 INFO  - Link 'File Upload' :: Clicking
+2026-01-20 12:10:17 INFO  - Text Field 'Upload' :: Clearing
+2026-01-20 12:10:17 INFO  - Text Field 'Upload' :: Typing 'C:\Users\Global\Desktop\Unit3_Automation_Framework\src\test\resources\testdata\file.json'
+2026-01-20 12:10:18 INFO  - Text Field 'Submit file' :: Clicking
+2026-01-20 12:10:18 INFO  - Label 'File name' :: Getting text from element
+2026-01-20 12:10:18 INFO  - Label 'File name' :: Element's text: [file.json]
+2026-01-20 12:10:18 INFO  - Closing browser

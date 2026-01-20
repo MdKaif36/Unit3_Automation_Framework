@@ -7,6 +7,7 @@ import org.testng.Assert;
 import pages.BasicAuthPage;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import utils.EnvDataReader;
 import utils.SettingsTestData;
 
 import static aquality.selenium.browser.AqualityServices.getBrowser;
@@ -27,8 +28,9 @@ public class BasicAuthTest extends BaseTest {
     @Test
     public void basicAuthTest() {
         mainPage.clickNavigationLink(MainPageNavigation.BASIC_AUTH);
-
         Assert.assertTrue(basicAuthPage.isSuccessMsgDisplayed(),"Success msg is not displayed");
 
     }
+
+
 }
